@@ -16,12 +16,13 @@ Despite that, the size must be less than 4KB, and can be secured by setting the 
 
 Local/session storage bring something different to the table like the storage limit is far bigger than cookies, Session has a limit 5MB, in some cases like Session storage which data is never transfered unlike Cookies.
 
- Type           |Cookies     |localStorage  |  sessionStorage
- Capacity       |         4kb|          10mb|           5mb
- Browser        | HTML 4/5   | HTML 5       |         HTML 5
- Expires        | Manually Set| Never| On tab close
- Storage        | Browser & Server| Browser Only| Browser Only
- Sent with request| Yes| No | No
+ |Type           |Cookies     |localStorage  |  sessionStorage|
+ |--------------:|-----------:|-------------:|---------------:|
+ |Capacity       |         4kb|          10mb|           5mb|
+ |Browser        | HTML 4/5   | HTML 5       |         HTML 5|
+ |Expires        | Manually Set| Never| On tab close|
+ |Storage        | Browser & Server| Browser Only| Browser Only|
+ |Sent with request| Yes| No | No|
 
 ## Demo of a simple usage of localStorage and sessionStorage
 
