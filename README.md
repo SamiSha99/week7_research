@@ -25,12 +25,12 @@ Local/session storage bring something different to the table like the storage li
  |Sent with request| Yes| No | No|
  
 ## localStorage and sessionStorage property and methods
-__length__ - property
-__clear()__ - method
-__key()__ - method
-__getItem()__ - method
-__setItem()__ - method
-__removeItem()__ - method
+*__length__ - property
+*__clear()__ - method
+*__key()__ - method
+*__getItem()__ - method
+*__setItem()__ - method
+*__removeItem()__ - method
 
 ## Demo of a simple usage of localStorage and sessionStorage
 
