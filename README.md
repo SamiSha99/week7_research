@@ -18,8 +18,11 @@ Local/session storage bring something different to the table like the storage li
 
 ## Demo of a simple usage of localStorage and sessionStorage
 
-https://www.tutorialrepublic.com/codelab.php?topic=html5&file=local-storage
+
+### localStorage Demo:
+
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_local_clickcount
 
-https://www.tutorialrepublic.com/codelab.php?topic=html5&file=session-storage
+### sessionStorage Demo:
+
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_session
