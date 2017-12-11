@@ -18,11 +18,12 @@ Local/session storage bring something different to the table like the storage li
 
 ## Demo of a simple usage of localStorage and sessionStorage
 
+To try a Demo of how the Local Storage and Session Storage work: 
 
-### localStorage Demo:
+1) Clone this repository
 
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_local_clickcount
+```git clone https://github.com/SamiSha99/week7_research.git```
 
-### sessionStorage Demo:
+2) Open each index.html one at the time and what is said in the each html.index.
 
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_session
+3) Enjoy! (Optional)
